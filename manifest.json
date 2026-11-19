@@ -1,6 +1,6 @@
 {
-  "version": "0.2.3",
-  "notes": "Retenção automática de sete backups locais e no Drive, exclusão segura, aviso de inicialização e atualização sem cache do canal.",
-  "url": "https://raw.githubusercontent.com/emanuelfaustino-spec/mundo-na-rede-updates/main/releases/Mundo-na-Rede-v0.2.3.exe",
-  "sha256": "2df5910deaaaff357dde6128263899eed6efe53916c6dcf060e68e3c8c611950"
+  "version": "0.2.4",
+  "notes": "Painel mais claro: visão geral real, controles em uma linha, comandos, lateral recolhível, estados e ajuste manual de visão e simulação Bedrock.",
+  "url": "https://raw.githubusercontent.com/emanuelfaustino-spec/mundo-na-rede-updates/main/releases/Mundo-na-Rede-v0.2.4.exe",
+  "sha256": "b330be6eace51b58ea9aea4df58e3dcea36c496cc06dcbf1df602afced203f1f"
 }
