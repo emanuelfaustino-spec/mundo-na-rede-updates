@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "notes": "Fundo espacial animado, atualização automática opcional e correção de conexão Bedrock LAN.",
-  "url": "https://raw.githubusercontent.com/emanuelfaustino-spec/mundo-na-rede-updates/main/releases/Mundo-na-Rede-v0.2.0.exe",
-  "sha256": "ea39dae506c0f2b0764b062da73a0a1d68b168233cc149a28ec31e6b3ebbfd7b"
+  "version": "0.2.1",
+  "notes": "Canal de atualização automática validado.",
+  "url": "https://raw.githubusercontent.com/emanuelfaustino-spec/mundo-na-rede-updates/main/releases/Mundo-na-Rede-v0.2.1.exe",
+  "sha256": "64d2459688039ccc902011b748926eaf2716756e8d8709f43cb3c3a7f34215ec"
 }
