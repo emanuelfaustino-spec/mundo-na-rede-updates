@@ -1,6 +1,6 @@
 {
-  "version": "0.2.5",
-  "notes": "Painel mais claro: visão geral real, controles em uma linha, comandos, lateral recolhível, estados, ajuste manual Bedrock e status online mais visível.",
-  "url": "https://raw.githubusercontent.com/emanuelfaustino-spec/mundo-na-rede-updates/main/releases/Mundo-na-Rede-v0.2.5.exe",
-  "sha256": "f225ca66eacf1fdac4db11f3a04fc9d2f801aed5cb2bf474797d3603b9815451"
+  "version": "0.2.6",
+  "notes": "Servidor sem janela CMD, seed protegida após criar o mundo, escolha de mundo existente na criação, atualização em tela própria e indicadores coloridos de desempenho.",
+  "url": "https://raw.githubusercontent.com/emanuelfaustino-spec/mundo-na-rede-updates/main/releases/Mundo-na-Rede-v0.2.6.exe",
+  "sha256": "681032aa06db5e7417fbbf5d14074db75d5096c2f1f096446643dda590489d59"
 }
