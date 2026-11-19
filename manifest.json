@@ -1,6 +1,6 @@
 {
-  "version": "0.2.1",
-  "notes": "Canal de atualização automática validado.",
-  "url": "https://raw.githubusercontent.com/emanuelfaustino-spec/mundo-na-rede-updates/main/releases/Mundo-na-Rede-v0.2.1.exe",
-  "sha256": "64d2459688039ccc902011b748926eaf2716756e8d8709f43cb3c3a7f34215ec"
+  "version": "0.2.2",
+  "notes": "Backups locais limitados a sete cópias, controles de exclusão, aviso de inicialização e atualização sem cache do canal.",
+  "url": "https://raw.githubusercontent.com/emanuelfaustino-spec/mundo-na-rede-updates/main/releases/Mundo-na-Rede-v0.2.2.exe",
+  "sha256": "827ee66a0156b8c4f040d5ecb25e6abe3950e0d9156e1a46b91cb87ead54ace3"
 }
